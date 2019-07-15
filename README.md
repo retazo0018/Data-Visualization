@@ -1,2 +1,2 @@
 # data_visualisation
-Data Visualisation on Economist data using R 
+Visualizing data using ggplot, seaborn and matplotlib 
