@@ -1,2 +1,2 @@
-# data_visualisation
+# Data Visualisation
 Visualizing data using ggplot, seaborn and matplotlib 
